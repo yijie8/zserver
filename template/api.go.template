@@ -3,10 +3,10 @@ package apis
 import (
 "github.com/gin-gonic/gin"
 "github.com/gin-gonic/gin/binding"
-"go-admin/models"
-"go-admin/tools"
-"go-admin/tools/app"
-"go-admin/tools/app/msg"
+"serverTars/models"
+"github.com/yijie8/zserver/tools"
+"github.com/yijie8/zserver/tools/app"
+"github.com/yijie8/zserver/tools/app/msg"
 )
 
 func Get{{.ClassName}}List(c *gin.Context) {

@@ -1,8 +1,8 @@
 package models
 
 import (
-"go-admin/global/orm"
-"go-admin/tools"
+"github.com/yijie8/zserver/global/orm"
+"github.com/yijie8/zserver/tools"
 _ "time"
 )
 
