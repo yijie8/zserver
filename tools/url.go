@@ -1,16 +1,17 @@
 package tools
 
 import (
-	"github.com/gin-gonic/gin"
 	"strings"
+
+	"github.com/gin-gonic/gin"
 )
 
 //获取URL中批量id并解析
 func IdsStrToIdsIntGroup(key string, c *gin.Context) []int {
-	return idsStrToIdsIntGroup(c.Param(key))
+	return IdsStrToIdsIntGroup_(c.Param(key))
 }
 
-func idsStrToIdsIntGroup(keys string) []int {
+func IdsStrToIdsIntGroup_(keys string) []int {
 	IDS := make([]int, 0)
 	ids := strings.Split(keys, ",")
 	for i := 0; i < len(ids); i++ {
