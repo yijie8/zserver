@@ -1,6 +1,8 @@
 package database
 
-import "serverTars/tools/config"
+import (
+	"github.com/yijie8/zserver/tools/config"
+)
 
 func Setup() {
 	dbType := config.DatabaseConfig.Dbtype

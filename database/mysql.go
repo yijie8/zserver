@@ -5,8 +5,8 @@ import (
 	_ "github.com/go-sql-driver/mysql" //加载mysql
 	"github.com/jinzhu/gorm"
 	log "github.com/sirupsen/logrus"
-	"serverTars/global/orm"
-	"serverTars/tools/config"
+	"github.com/yijie8/zserver/global/orm"
+	"github.com/yijie8/zserver/tools/config"
 	"strconv"
 )
 

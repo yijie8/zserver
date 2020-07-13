@@ -7,8 +7,8 @@ import (
 	"github.com/go-kit/kit/endpoint"
 	_ "github.com/go-sql-driver/mysql"
 	log "github.com/sirupsen/logrus"
-	"serverTars/global/orm"
-	"serverTars/tools/config"
+	"github.com/yijie8/zserver/global/orm"
+	"github.com/yijie8/zserver/tools/config"
 )
 
 var Em endpoint.Middleware

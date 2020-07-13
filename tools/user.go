@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/gin-gonic/gin"
 	log "github.com/sirupsen/logrus"
-	jwt "serverTars/pkg/jwtauth"
+	jwt "github.com/yijie8/zserver/pkg/jwtauth"
 )
 
 func ExtractClaims(c *gin.Context) jwt.MapClaims {

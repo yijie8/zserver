@@ -4,7 +4,7 @@ import (
 	"errors"
 	log "github.com/sirupsen/logrus"
 	"os"
-	config2 "serverTars/tools/config"
+	config2 "github.com/yijie8/zserver/tools/config"
 	"time"
 )
 

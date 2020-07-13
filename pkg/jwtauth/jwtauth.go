@@ -7,7 +7,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"io/ioutil"
 	"net/http"
-	config2 "serverTars/tools/config"
+	config2 "github.com/yijie8/zserver/tools/config"
 	"strings"
 	"time"
 )

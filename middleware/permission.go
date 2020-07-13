@@ -4,10 +4,10 @@ import (
 	"github.com/gin-gonic/gin"
 	log "github.com/sirupsen/logrus"
 	"net/http"
-	mycasbin "serverTars/pkg/casbin"
-	"serverTars/pkg/jwtauth"
-	_ "serverTars/pkg/jwtauth"
-	"serverTars/tools"
+	mycasbin "github.com/yijie8/zserver/pkg/casbin"
+	"github.com/yijie8/zserver/pkg/jwtauth"
+	_ "github.com/yijie8/zserver/pkg/jwtauth"
+	"github.com/yijie8/zserver/tools"
 )
 
 //权限检查中间件

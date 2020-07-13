@@ -4,7 +4,7 @@ import (
 	"github.com/gin-gonic/gin"
 	log "github.com/sirupsen/logrus"
 	"net/http"
-	jwt "serverTars/pkg/jwtauth"
+	jwt "github.com/yijie8/zserver/pkg/jwtauth"
 )
 
 func NoFound(c *gin.Context) {

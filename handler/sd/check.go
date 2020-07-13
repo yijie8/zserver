@@ -9,7 +9,7 @@ import (
 	"github.com/shirou/gopsutil/mem"
 	"net/http"
 	"runtime"
-	"serverTars/tools/app"
+	"github.com/yijie8/zserver/tools/app"
 	"time"
 )
 
