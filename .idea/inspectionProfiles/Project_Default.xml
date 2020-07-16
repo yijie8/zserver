@@ -1,0 +1,102 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="GoAddressOperators" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoAnonymousFieldDefinitionType" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoAssignmentNilWithoutExplicitType" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoAssignmentToReceiver" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoBinaryAndUnaryExpressionTypesCompatibility" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoBoolExpressions" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoBuildTag" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoCgoInTest" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoCommentLeadingSpace" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoCommentStart" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="GoDeferGo" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoDeferInLoop" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoDeprecation" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoDivisionByZero" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoDuplicate" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoDuplicateCase" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoEmbeddedInterfacePointer" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoEmptyDeclaration" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoErrorStringFormat" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoErrorsAs" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoExplicitDereferenceRequired" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoExportedElementShouldHaveComment" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="GoExportedFuncWithUnexportedType" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoExportedOwnDeclaration" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoExtendedMethodExprSyntax" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoFunctionCall" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoFunctionVariadicParameter" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoImportUsedAsName" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoImpossibleTypeAssertion" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoInfiniteFor" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoInvalidCompositeLiteral" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoInvalidConstInitialization" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoInvalidConstType" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoInvalidExpressionConversion" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoInvalidIndexOrSliceExpression" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoInvalidPackageImport" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoInvalidReceiverType" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoInvalidStringOrChar" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoInvalidTilde" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoInvalidVarAssignInVarOrConstSpec" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoJumpOverDeclaration" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoMissingReturn" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoMissingTrailingComma" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoMixedNamedUnnamedParameters" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoMultiplePackages" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoNameStartsWithPackageName" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoNilness" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoNoNewVariables" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoNonFunctionCall" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoPreferNilSlice" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoPrintFunctions" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoReceiverNames" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoRecursiveType" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoRedundantBlankArgInRange" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoRedundantConversion" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoRedundantImportAlias" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoRedundantParens" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoRedundantSecondIndexInSlices" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoRedundantSemicolon" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoRedundantTypeDeclInCompositeLit" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoReservedWordUsedAsName" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoSelfAssignment" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoSelfImport" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoShadowedVar" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="GoSnakeCaseUsage" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoStringAndByteTypeMismatch" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoStringsReplaceCount" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoStructInitializationWithoutFieldNames" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoStructTag" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoTestSignatures" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoTypesCompatibility" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoUnderscoreUsedAsValue" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoUnhandledErrorResult" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoUnitSpecificDurationSuffix" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoUnnecessarilyExportedIdentifiers" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="GoUnreachableCode" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoUnresolvedReference" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoUnsortedImport" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoUnusedCallResult" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoUnusedConst" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoUnusedExportedFunction" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoUnusedExportedType" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoUnusedFunction" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoUnusedGlobalVariable" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoUnusedImport" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoUnusedLabel" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoUnusedParameter" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoUnusedType" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoUnusedVariable" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoUsedAsValueInCondition" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoVarAndConstTypeMayBeOmitted" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="GoVetAtomic" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
